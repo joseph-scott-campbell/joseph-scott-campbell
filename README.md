@@ -2,7 +2,8 @@
 
 - Scott Campbell
 - Student at Medford Vocational Technical Highschool
-- Member of the MVTHS Robotics Team
+- Member of the MVTHS Robotics Team (Sunk Robotics)
+- Won the New England Regional MATE ROV Competition in 2022
 - Graduating in 2025
 - [My Website](https://scott.nopreserveroot.xyz/)
 
