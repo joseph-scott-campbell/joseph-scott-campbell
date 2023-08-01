@@ -1,6 +1,7 @@
 # About Me
 
 - Scott Campbell
+- [DEF CON 31 Speaker - MBTA Hack](https://info.defcon.org/event/?id=50748)
 - Student at Medford Vocational Technical Highschool
 - Member of the MVTHS Robotics Team (Sunk Robotics)
 - Won the New England Regional MATE ROV Competition in 2022
