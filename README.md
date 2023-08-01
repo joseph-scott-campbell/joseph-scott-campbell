@@ -7,9 +7,12 @@
 - Won the New England Regional MATE ROV Competition in 2022
 - Graduating in 2025
 - [My Website](https://scott.nopreserveroot.xyz/)
+- [My Linkedin](https://www.linkedin.com/in/j-scott-campbell/)
 
 # Skills
 
+- Cyber security
+- Binary Exploitation
 - Most comfortable with Python
 - Experience in interfacing code with hardware
 - Familiar with C/C++ Particularly Arduino
