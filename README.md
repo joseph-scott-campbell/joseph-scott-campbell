@@ -13,7 +13,7 @@
 
 - Cyber security
 - Binary Exploitation
-- Most comfortable with Python
+- Most comfortable programming in Python
 - Experience in interfacing code with hardware
 - Familiar with C/C++ Particularly Arduino
 - Familiar with Bash Scripting
