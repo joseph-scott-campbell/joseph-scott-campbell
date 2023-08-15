@@ -2,6 +2,7 @@
 
 - Scott Campbell
 - [DEF CON 31 Speaker - MBTA Hack](https://info.defcon.org/event/?id=50748)
+- [Featured in Wired](https://www.wired.com/story/mtba-charliecard-hack-defcon-2023/)
 - Student at Medford Vocational Technical Highschool
 - Member of the MVTHS Robotics Team (Sunk Robotics)
 - Won the New England Regional MATE ROV Competition in 2022
