@@ -7,7 +7,7 @@
 - Member of the MVTHS Robotics Team (Sunk Robotics)
 - Won the New England Regional MATE ROV Competition in 2022
 - Graduating in 2025
-- [My Website](https://scott.nopreserveroot.xyz/)
+- [My Website](https://josephscottcampbell.com/)
 - [My Linkedin](https://www.linkedin.com/in/j-scott-campbell/)
 
 # Skills
