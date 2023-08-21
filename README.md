@@ -5,7 +5,7 @@
 - [Featured in Wired](https://www.wired.com/story/mtba-charliecard-hack-defcon-2023/)
 - Student at Medford Vocational Technical Highschool
 - Member of the MVTHS Robotics Team (Sunk Robotics)
-- Won the New England Regional MATE ROV Competition in 2022
+- Won the New England Regional MATE ROV Competition in 2022 and 2023
 - Graduating in 2025
 - [My Website](https://josephscottcampbell.com/)
 - [My Linkedin](https://www.linkedin.com/in/j-scott-campbell/)
